@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @pensarguet, 
-- :mag: Chief Technology Officer for B2B branch of a major Telco, in charge of Tech vision and strategy, and Board Advisor for startups in Tech
-- 👀 I’m interested in Tech: software, automation, cloud native and AI
+- :mag: VP Software Engineering at @orange, responsible for transforming the telco to techco journey and scouting for disruptive technologies and partners
+- 🐧 Board Advisor for @LF_Europe
+- 😇 Investment funds Advisor, Board Advisor for @weaveworks (and @cycloid_io for 4 years)
+- 👀 I’m interested in Tech: software, automation, cloud native, GitOps, climate-friendly engineering and AI
 - 🖌️ Art Designer at www.jepeinsdesaliens.com
 - :mountain_bicyclist: Absolute fan of MTB and Gravel bike, on country roads as much as I can, or in Zwift otherwise
 - 📫 How to reach me: philippe.ensarguet@gmail.com / or on twitter @p_ensarguet
